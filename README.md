@@ -3,3 +3,5 @@
 Here is my first Github repository. Let's get started with Github
 
 resolve conflict manually
+
+new line was added locally
